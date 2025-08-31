@@ -24,8 +24,24 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
+<!-- أدوات وتقنيات هندسة البيانات -->
+<h3 align="left">🛠️ أدوات وتقنيات هندسة البيانات:</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache-Airflow&logoColor=white" alt="Airflow"/>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=Apache-Spark&logoColor=white" alt="Spark"/>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=Apache-Kafka&logoColor=white" alt="Kafka"/>
+  <img src="https://img.shields.io/badge/DBT-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt"/>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=Snowflake&logoColor=white" alt="Snowflake"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=Google-Cloud&logoColor=white" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python"/>
+</p>
+
+<!-- عدد مشاهدات البروفايل -->
 <a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge" alt="profile views">
 </a>
+
